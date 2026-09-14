@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CollectionIndexHints/CollectionInfo.csproj">
+    <Deploy />
+  </Project>
+</Solution>
